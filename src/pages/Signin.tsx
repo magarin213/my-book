@@ -1,10 +1,9 @@
 import React from 'react'
+import SigninContainer from '../containers/SigninContainers'
 
 function Signin() {
   return (
-    <div>
-      Signin
-    </div>
+    <SigninContainer></SigninContainer>
   )
 }
 

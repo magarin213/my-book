@@ -21,7 +21,7 @@ function App() {
     <Route exact path="/" component={Home} />
     <Route component={NotFound} />
   </Switch>
-  </BrowserRouter>);
+  </BrowserRouter>
 </ErrorBoundary>
   )
 }
